@@ -54,7 +54,6 @@ Check out my work here:
 ## 📊 GitHub Stats
 
 ![Ofentse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OfentseJ&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OfentseJ&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OfentseJ&theme=tokyonight)
 
 ---
