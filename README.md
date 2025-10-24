@@ -14,7 +14,8 @@ I enjoy designing and developing interactive, efficient, and visually appealing 
 - 🧠 Currently improving my **JavaScript, Node.js, and React** skills
 - ⚙️ I enjoy experimenting with **backend services** and **API design**
 - 🎓 **Computer Science student**, passionate about web technologies
-- 🧩 Always looking for opportunities to learn and collaborate
+- 🤝 Looking for opportunities to **contribute to projects** and **collaborate** with other developers
+- 🧩 Always looking for opportunities to learn and build cool stuff
 
 ---
 
@@ -22,6 +23,7 @@ I enjoy designing and developing interactive, efficient, and visually appealing 
 
 ### 🚀 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -71,4 +73,4 @@ When I'm not coding, you’ll probably find me:
 
 ---
 
-⭐️ *"Code. Learn. Improve. Repeat."*  
+⭐️ *"Code. Learn. Collaborate. Improve. Repeat."*  
