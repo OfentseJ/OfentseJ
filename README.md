@@ -46,7 +46,6 @@ I love working on:
 - 🧰 **Personal Tools** — things that make my workflow smoother
 
 Check out my work here:  
-👉 [**GitHub Profile**](https://github.com/OfentseJ)  
 👉 [**Portfolio Website**](https://ofentsej.github.io/react-personal-portfolio/)
 
 ---
