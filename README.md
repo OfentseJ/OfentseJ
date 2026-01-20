@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Ofentse Makhutja
 
-🎯 **Full-Stack Developer** from Midrand, Gauteng, South Africa  
+🎯 **Software Developer** from Midrand, Gauteng, South Africa  
 💡 Passionate about building modern web applications and tools that make everyday tasks easier.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **full-stack developer** eager to learn, grow, and refine my craft in software development.  
+I'm a **Software developer** eager to learn, grow, and refine my craft in software development.  
 I enjoy designing and developing interactive, efficient, and visually appealing web apps — especially ones that help automate or simplify my daily work.
 
 - 🌍 Based in **Midrand, South Africa**
